@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "A Esa",
+  "base_artist": "Pimpinela",
+  "createdAt": "2026-02-13T04:43:40.394945Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "A Esa",
+      "artist": "Pimpinela",
+      "has_synced": true,
+      "path": "select/01_A_Esa_Pimpinela.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "A Esa",
+      "artist": "Pimpinela",
+      "has_synced": true,
+      "path": "select/02_A_Esa_Pimpinela.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Atado A Esa Mujer",
+      "artist": "Rosario",
+      "has_synced": true,
+      "path": "select/03_Atado_A_Esa_Mujer_Rosario.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "A Esa",
+      "artist": "Liberación",
+      "has_synced": true,
+      "path": "select/04_A_Esa_Liberación.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "A Esa",
+      "artist": "Pimpinela",
+      "has_synced": true,
+      "path": "select/05_A_Esa_Pimpinela.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "A Esa - Dueto Con Juan Tavares Y Palomo",
+      "artist": "Liberación feat. Juan Tavares & Palomo",
+      "has_synced": false,
+      "path": "select/06_A_Esa_-_Dueto_Con_Juan_Tavares_Y_Palomo_Liberación_feat._Juan_Tavares_&_Palomo.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "A Esa - Dueto Con Juan Tavares Y Palomo",
+      "artist": "Liberación",
+      "has_synced": false,
+      "path": "select/07_A_Esa_-_Dueto_Con_Juan_Tavares_Y_Palomo_Liberación.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "PIMPINELA | A ESA",
+      "artist": "Pimpinela",
+      "has_synced": true,
+      "path": "select/08_PIMPINELA___A_ESA_Pimpinela.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "A Esa Gran Velocidad",
+      "artist": "El Haragan Y Compania",
+      "has_synced": true,
+      "path": "select/09_A_Esa_Gran_Velocidad_El_Haragan_Y_Compania.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "A Esa Gran Velocidad",
+      "artist": "El Haragán y Compañía",
+      "has_synced": true,
+      "path": "select/10_A_Esa_Gran_Velocidad_El_Haragán_y_Compañía.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Atado A Esa Mujer",
+      "artist": "Rosario Flores",
+      "has_synced": true,
+      "path": "select/11_Atado_A_Esa_Mujer_Rosario_Flores.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Mira A Esa Chica",
+      "artist": "Tequila",
+      "has_synced": true,
+      "path": "select/12_Mira_A_Esa_Chica_Tequila.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "No Hagas Llorar a Esa Mujer",
+      "artist": "Vicente Fernández",
+      "has_synced": true,
+      "path": "select/13_No_Hagas_Llorar_a_Esa_Mujer_Vicente_Fernández.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Recuerdo Esa Canción - Remastered 2017",
+      "artist": "Graffiti",
+      "has_synced": false,
+      "path": "select/14_Recuerdo_Esa_Canción_-_Remastered_2017_Graffiti.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Las Curvas de Esa Chica",
+      "artist": "Mecano",
+      "has_synced": true,
+      "path": "select/15_Las_Curvas_de_Esa_Chica_Mecano.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Con Esa Duda",
+      "artist": "Marco Antonio Solís",
+      "has_synced": true,
+      "path": "select/16_Con_Esa_Duda_Marco_Antonio_Solís.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Esa",
+      "artist": "Joan Sebastian",
+      "has_synced": false,
+      "path": "select/17_Esa_Joan_Sebastian.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Esa Noche",
+      "artist": "Gerardo Ortíz",
+      "has_synced": true,
+      "path": "select/18_Esa_Noche_Gerardo_Ortíz.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Esa Mujer (That Woman)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/19_Esa_Mujer_(That_Woman)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Esa Mujer (That Woman) (Album Version)",
+      "artist": "Julio Iglesias",
+      "has_synced": true,
+      "path": "select/20_Esa_Mujer_(That_Woman)_(Album_Version)_Julio_Iglesias.lrc"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Por Esa Calle Vive",
+      "artist": "El Fantasma",
+      "has_synced": true,
+      "path": "select/21_Por_Esa_Calle_Vive_El_Fantasma.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Que te ha dado esa mujer (Remastered)",
+      "artist": "Pedro Infante",
+      "has_synced": false,
+      "path": "select/22_Que_te_ha_dado_esa_mujer_(Remastered)_Pedro_Infante.txt"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Que Te Ha Dado Esa Mujer 2 (Remastered)",
+      "artist": "Pedro Infante",
+      "has_synced": true,
+      "path": "select/23_Que_Te_Ha_Dado_Esa_Mujer_2_(Remastered)_Pedro_Infante.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Esa Muchacha",
+      "artist": "Fidel Funes Y Su Marimba Orquesta feat. Orquesta Sinfónica Nacional de Guatemala",
+      "has_synced": false,
+      "path": "select/24_Esa_Muchacha_Fidel_Funes_Y_Su_Marimba_Orquesta_feat._Orquesta_Sinfónica_Nacional_de_Guatemala.txt"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Esa Muchacha",
+      "artist": "Fidel Funes Y Su Marimba Orquesta, Orquesta Sinfónica Nacional de Guatemala",
+      "has_synced": false,
+      "path": "select/25_Esa_Muchacha_Fidel_Funes_Y_Su_Marimba_Orquesta,_Orquesta_Sinfónica_Nacional_de_Guatemala.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Esa Nota",
+      "artist": "Jay Wheeler feat. DJ Nelson & Dalex",
+      "has_synced": true,
+      "path": "select/26_Esa_Nota_Jay_Wheeler_feat._DJ_Nelson_&_Dalex.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Esa Mujer",
+      "artist": "Los Temerarios",
+      "has_synced": true,
+      "path": "select/27_Esa_Mujer_Los_Temerarios.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Y Por Esa Calle Vive",
+      "artist": "Los Barón De Apodaca",
+      "has_synced": true,
+      "path": "select/28_Y_Por_Esa_Calle_Vive_Los_Barón_De_Apodaca.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Esa Negra",
+      "artist": "Banda MS de Sergio Lizárraga",
+      "has_synced": true,
+      "path": "select/29_Esa_Negra_Banda_MS_de_Sergio_Lizárraga.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Esa Negra",
+      "artist": "Banda Sinaloense MS de Sergio Lizárraga",
+      "has_synced": true,
+      "path": "select/30_Esa_Negra_Banda_Sinaloense_MS_de_Sergio_Lizárraga.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Esa Chinche Víeja",
+      "artist": "Banda Machos",
+      "has_synced": true,
+      "path": "select/31_Esa_Chinche_Víeja_Banda_Machos.lrc"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Esa Fue Mi Novia",
+      "artist": "Saul Viera",
+      "has_synced": false,
+      "path": "select/32_Esa_Fue_Mi_Novia_Saul_Viera.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Esa Chica Y Yo",
+      "artist": "Pimpinela",
+      "has_synced": false,
+      "path": "select/pl_01_Esa_Chica_Y_Yo_Pimpinela.txt"
+    }
+  ]
+}
